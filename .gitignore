@@ -1,0 +1,22 @@
+# Build folders
+**/build/
+**/bin/
+**/out/
+
+# Forge/Fabric run data
+**/run/
+**/logs/
+userdev/
+
+# IDE files
+.gradle/
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Secrets
+*.jks
